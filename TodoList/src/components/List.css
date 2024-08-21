@@ -21,3 +21,13 @@
   flex-direction: column;
   gap: 20px;
 }
+
+.List .CountWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.List .count {
+  font-size: 16px;
+  font-weight: 600;
+}
