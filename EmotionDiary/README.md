@@ -1,8 +1,6 @@
-# React + Vite
+[Emotion Diary 바로가기](https://emotion-diary-2fn4xywft-hanjeonghyuns-projects.vercel.app/)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/user-attachments/assets/30fbe594-db58-419d-b843-dfa8012e65d3" alt="image 1" width="45%">
+    <img src="https://github.com/user-attachments/assets/91705ee3-7353-436d-95bd-39e7fea0c00f" alt="image 2" width="45%">
+</div>
