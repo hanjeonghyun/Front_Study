@@ -1,7 +1,7 @@
 import "./App.css";
 import MainView from "./components/MainView";
 import HistoryView from "./components/HistoryView";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 
 function App() {
   const [view, setView] = useState("main");
